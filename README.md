@@ -67,7 +67,7 @@ code organization
 
 ---
 
-##PURPOSE
+## PURPOSE
 
 This project was created to practice Python fundamentals and improve logical thinking by building a simple interactive system.
 
