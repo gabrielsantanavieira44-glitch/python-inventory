@@ -1,82 +1,96 @@
 ---
 
-📦 • Simple Inventory System (Python)
+## SIMPLE INVENTORY SYSTEM (PYTHON)
 
-A basic inventory system made in Python using lists, loops and conditionals.
+A simple terminal-based inventory system built with Python.
+This project is meant to practice basic programming logic and data handling.
 
-🚀 • Features
+
+---
+
+## FEATURES
+
+Inventory Management
 
 Add items to your inventory
 
 Remove items from your inventory
 
-View all items
+View all stored items
 
-Simple menu system in terminal
+
+Simple Menu System
+
+Interactive terminal menu
+
+Navigation using numeric input
 
 
 
 ---
 
-🧠 • What I used
+## WHAT I USED
+
+Python Basics
 
 variables
 
+input / print
+
 lists
 
-functions
 
-while loop
+Logic
 
 if / elif / else
 
-input / print
+while loops
+
+
+Functions
+
+basic function structure
+
+code organization
 
 
 
 ---
 
-▶️ • How to run
+## MENU EXAMPLE
 
-1. Make sure you have Python installed
-
-
-2. Run the file:
-
-
-
-python main.py
-
-
----
-
-📌 • Example menu
-
-1 - Add item
-2 - Show inventory
-3 - Remove item
+1 - Add item  
+2 - Show inventory  
+3 - Remove item  
 0 - Exit
 
 
 ---
 
-🎯 • Goal
+##PURPOSE
 
-This project was made to practice Python basics and understand how to build simple interactive programs.
+This project was created to practice Python fundamentals and improve logical thinking by building a simple interactive system.
 
 
 ---
 
-📚 • Future improvements
+## FUTURE IMPROVEMENTS
 
 save inventory to a file
 
-improve error handling
+better input validation
 
-better menu design
+improve menu structure
 
-organize code using functions/classes
+convert into class-based system (OOP)
 
+
+
+---
+
+## AUTHOR
+
+Created by gabiruxx while learning Python step by step.
 
 
 ---
