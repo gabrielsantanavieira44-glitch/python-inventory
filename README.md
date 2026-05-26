@@ -1,10 +1,10 @@
 ---
 
-📦 Simple Inventory System (Python)
+📦 • Simple Inventory System (Python)
 
 A basic inventory system made in Python using lists, loops and conditionals.
 
-🚀 Features
+🚀 • Features
 
 Add items to your inventory
 
@@ -18,7 +18,7 @@ Simple menu system in terminal
 
 ---
 
-🧠 What I used
+🧠 • What I used
 
 variables
 
@@ -36,7 +36,7 @@ input / print
 
 ---
 
-▶️ How to run
+▶️ • How to run
 
 1. Make sure you have Python installed
 
@@ -50,7 +50,7 @@ python main.py
 
 ---
 
-📌 Example menu
+📌 • Example menu
 
 1 - Add item
 2 - Show inventory
@@ -60,14 +60,14 @@ python main.py
 
 ---
 
-🎯 Goal
+🎯 • Goal
 
 This project was made to practice Python basics and understand how to build simple interactive programs.
 
 
 ---
 
-📚 Future improvements
+📚 • Future improvements
 
 save inventory to a file
 
